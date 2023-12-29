@@ -1,0 +1,68 @@
+
+body{
+    margin: 0;
+}
+header::before{
+    background: url('restaurant_image.jpg') no-repeat center center/cover ;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    background-blend-mode: darken;
+   
+}
+
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+} 
+
+h1{
+    margin-top: 0 !important;
+    color: rgb(0, 0, 0);
+}
+
+.input{
+    margin: 10px;
+    width: 50vw;
+    height: 3vh;
+    font-size: 16px;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
+.button{
+    margin-top: 10px;
+}
+.login{
+    border: 2px solid black;
+    border-radius: 10px;
+    background-image: brown;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    height: 25px;
+    width: 10vw;
+    cursor: pointer;
+    font-size: 10px;
+}
+
+.acc{
+    padding-top: 12px;
+    font-weight: bold;
+}
+
+em{
+    font-size: 20px;
+    color: black;
+}
+
+a{
+    color: #7e3f3f;
+}
