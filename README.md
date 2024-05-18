@@ -1,12 +1,14 @@
 # About
-It is a basic web site of restaurant where user can register/login and select items that he wants to order and palce a order.
-It facilitate the use php for backend component and Mysql for storing detail of users such as their login credentials and details of what they order
+<p>This project is a basic web application for a restaurant that allows users to register, login, view the menu, select items, and place orders. It uses PHP for the backend and MySQL for storing user details and order information.</p>
+
 
 # Technology Used 
 <strong>For Frontend:</strong> 
 <li>HTML</li>
 <li>CSS</li>
 <li>Javascript</li>
+<br>
+
 <strong>For Backend:</strong>
 <li>PHP</li>
 <li>MySQL</li>
