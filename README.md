@@ -1,14 +1,15 @@
 # About
-It is a basic web site of restaurant where user can register/login and select items that he wants to order then palce a order.
+It is a basic web site of restaurant where user can register/login and select items that he wants to order and palce a order.
+It facilitate the use php for backend component and Mysql for storing detail of users such as their login credentials and details of what they order
 
-# Technology require 
-<ol>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Javascript</li>
-  <li>PHP</li>
-  <li>MySQL</li>
-</ol>
+# Technology Used 
+<strong>For Frontend:</strong> 
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
+<strong>For Backend:</strong>
+<li>PHP</li>
+<li>MySQL</li>
 
 # Note
 User can only order once as he login if he wants to order again then he should logout and login again.
